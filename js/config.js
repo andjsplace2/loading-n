@@ -107,14 +107,14 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "CVZXj53i9Js", name: "Atlas Gaming Installation Music"},
-	{youtube: "23cQFCUFXSI", name: "Atlas Gaming Installation Music"},
-        {youtube: "WlC7wA1owo8", name: "Atlas Gaming Installation Music"},
-        {youtube: "TYVjDcaiD20", name: "Atlas Gaming Installation Music"},
-        {youtube: "IeqtAB1WgEw", name: "Atlas Gaming Installation Music"},
-        {youtube: "4qKGWY1T32k", name: "Atlas Gaming Installation Music"},
-        {youtube: "fnu4GNwSOpA", name: "Atlas Gaming Installation Music"},
-        {youtube: "h89GrZ9ackg", name: "Atlas Gaming Installation Music"},
+	{youtube: "CVZXj53i9Js", name: "North Shore Installation Music"},
+	{youtube: "23cQFCUFXSI", name: "North Shore Installation Music"},
+        {youtube: "WlC7wA1owo8", name: "North Shore Installation Music"},
+        {youtube: "TYVjDcaiD20", name: "North Shore Installation Music"},
+        {youtube: "IeqtAB1WgEw", name: "North Shore Installation Music"},
+        {youtube: "4qKGWY1T32k", name: "North Shore Installation Music"},
+        {youtube: "fnu4GNwSOpA", name: "North Shore Installation Music"},
+        {youtube: "h89GrZ9ackg", name: "North Shore Installation Music"},
 
 
 ];
